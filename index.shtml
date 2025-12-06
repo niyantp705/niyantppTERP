@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Niyant Patel Deployment Project</title>
+</head>
+<body>
+    <h1>Deployment Project</h1>
+    <ul>
+    <li><strong>Name:</strong> Niyant Patel</li>
+    <li><strong>GitHub Location:</strong> <a href="https://github.com/niyantp705/niyantppTERP">https://github.com/niyantp705/niyantppTERP</a></li>
+    <li><strong>Render Location:</strong> <a href="https://niyantppterp.onrender.com">https://niyantppterp.onrender.com</a></li>
+    <li><strong>Clearing Database Movies:</strong> <a href="https://niyantppterp.onrender.com/clearCollection">https://niyantppterp.onrender.com/clearCollection</a></li>
+    <li><strong>Inserting Movies:</strong> <a href="https://niyantppterp.onrender.com/insertMovies">https://niyantppterp.onrender.com/insertMovies</a></li>
+    <li><strong>List Movies:</strong> <a href="https://niyantppterp.onrender.com/listMovies">https://niyantppterp.onrender.com/listMovies</a></li>
+    </ul>
+</body>
+</html>
